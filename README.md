@@ -68,3 +68,12 @@ aws s3api put-bucket-policy --bucket $BUCKET_NAME --policy file://bucket-policy.
 # Output the website URL
 echo "🎉 Your static website is live at:"
 echo "👉 http://$BUCKET_NAME.s3-website-$REGION.amazonaws.com"
+
+
+
+![image alt](https://github.com/atharvasangale7/DoctorX/blob/6f4cad673aed40500d228bb40b814d39fb35dc20/WhatsApp%20Image%202025-06-10%20at%2011.10.20%20AM.jpeg)
+![image alt](https://github.com/atharvasangale7/DoctorX/blob/6f4cad673aed40500d228bb40b814d39fb35dc20/WhatsApp%20Image%202025-06-10%20at%2011.10.20%20AM.jpeg)
+![image alt](https://github.com/atharvasangale7/DoctorX/blob/6f4cad673aed40500d228bb40b814d39fb35dc20/WhatsApp%20Image%202025-06-10%20at%2011.10.20%20AM.jpeg)
+![image alt](https://github.com/atharvasangale7/DoctorX/blob/6f4cad673aed40500d228bb40b814d39fb35dc20/WhatsApp%20Image%202025-06-10%20at%2011.10.20%20AM.jpeg)
+![image alt](https://github.com/atharvasangale7/DoctorX/blob/6f4cad673aed40500d228bb40b814d39fb35dc20/WhatsApp%20Image%202025-06-10%20at%2011.10.20%20AM.jpeg)
+
