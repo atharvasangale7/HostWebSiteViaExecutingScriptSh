@@ -77,5 +77,4 @@ echo "👉 http://$BUCKET_NAME.s3-website-$REGION.amazonaws.com"
 ![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/a6cdc80432f83d2789048654c49151ee163313c7/Screenshot%202025-07-28%20162520.png)
 ![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/bd3442f1451695ca4091a61241df6e795ca53129/Screenshot%202025-07-28%20164031.png)
 ![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/bd3442f1451695ca4091a61241df6e795ca53129/Screenshot%202025-07-28%20164050.png)
-![image alt](https://github.com/atharvasangale7/immigration-System/blob/ba64ba1f2693a35e6cd34b54e7293382808eb22e/WhatsApp%20Image%202025-06-10%20at%2012.33.19%20PM.jpeg)
-![image alt](https://github.com/atharvasangale7/immigration-System/blob/3cf80a54670dd568c828e701c1cd59e14cca249b/WhatsApp%20Image%202025-06-10%20at%2012.33.20%20PM%20-%20Copy.jpeg)
+
